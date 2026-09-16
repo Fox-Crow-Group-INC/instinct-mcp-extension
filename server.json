@@ -1,0 +1,10 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.mspmcp/instinct",
+  "description": "MSP market intelligence for AI assistants — query the English-speaking managed-services market: company profiles, technology, FCML operating-maturity scores, reputation, hiring and change signals. Read-only, metered pay-as-you-go.",
+  "version": "1.0.0",
+  "websiteUrl": "https://mspmcp.com",
+  "remotes": [
+    { "type": "streamable-http", "url": "https://mcp.mspmcp.com/mcp" }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "instinct-mcp",
+  "version": "1.0.0",
+  "description": "MSP market intelligence for your AI assistant — query the English-speaking managed-services market: company profiles, technology, FCML operating-maturity scores, reputation, hiring and change signals. Read-only, metered pay-as-you-go.",
+  "mcpServers": {
+    "instinct": {
+      "httpUrl": "https://mcp.mspmcp.com/mcp"
+    }
+  }
+}
