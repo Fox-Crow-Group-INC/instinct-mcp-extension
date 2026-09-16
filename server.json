@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.mspmcp/instinct",
-  "description": "MSP market intelligence for AI assistants \u2014 query the English-speaking managed-services market: company profiles, technology, FCML operating-maturity scores, reputation, hiring and change signals. Read-only, metered pay-as-you-go.",
+  "description": "MSP market intelligence for AI assistants: profiles, tech, maturity scores, and change signals.",
   "repository": {
     "url": "https://github.com/Fox-Crow-Group-INC/instinct-mcp-extension",
     "source": "github"
