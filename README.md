@@ -20,7 +20,7 @@ The extension registers the remote MCP server at `https://mcp.mspmcp.com/mcp`.
 On first use you'll sign in (OAuth) and it draws from your credit balance.
 
 - Sign up / manage credits: https://mcp.mspmcp.com/
-- Docs: https://mcp.mspmcp.com/guide
+- Docs: https://mcp.mspmcp.com/docs
 - Site: https://mspmcp.com
 
 © 2026 Fox & Crow Inc.
